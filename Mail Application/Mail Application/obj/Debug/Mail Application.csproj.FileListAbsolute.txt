@@ -1,0 +1,20 @@
+A:\Programming\Mail Application\Mail Application\bin\Debug\Mail Application.exe.config
+A:\Programming\Mail Application\Mail Application\bin\Debug\Mail Application.exe
+A:\Programming\Mail Application\Mail Application\bin\Debug\Mail Application.pdb
+A:\Programming\Mail Application\Mail Application\obj\Debug\Mail Application.csproj.AssemblyReference.cache
+A:\Programming\Mail Application\Mail Application\obj\Debug\Mail_Application.Form1.resources
+A:\Programming\Mail Application\Mail Application\obj\Debug\Mail_Application.Properties.Resources.resources
+A:\Programming\Mail Application\Mail Application\obj\Debug\Mail Application.csproj.GenerateResource.cache
+A:\Programming\Mail Application\Mail Application\obj\Debug\Mail Application.csproj.CoreCompileInputs.cache
+A:\Programming\Mail Application\Mail Application\obj\Debug\Mail Application.exe
+A:\Programming\Mail Application\Mail Application\obj\Debug\Mail Application.pdb
+A:\Programming\Mail-application-main\Mail-application-main\Mail Application\Mail Application\obj\Debug\Mail Application.csproj.AssemblyReference.cache
+A:\Programming\Mail-application-main\Mail-application-main\Mail Application\Mail Application\obj\Debug\Mail Application.exe
+A:\Programming\Mail-application-main\Mail-application-main\Mail Application\Mail Application\obj\Debug\Mail Application.pdb
+A:\Programming\Mail-application-main\Mail-application-main\Mail Application\Mail Application\bin\Debug\Mail Application.exe.config
+A:\Programming\Mail-application-main\Mail-application-main\Mail Application\Mail Application\bin\Debug\Mail Application.exe
+A:\Programming\Mail-application-main\Mail-application-main\Mail Application\Mail Application\bin\Debug\Mail Application.pdb
+A:\Programming\Mail-application-main\Mail-application-main\Mail Application\Mail Application\obj\Debug\Mail_Application.Form1.resources
+A:\Programming\Mail-application-main\Mail-application-main\Mail Application\Mail Application\obj\Debug\Mail_Application.Properties.Resources.resources
+A:\Programming\Mail-application-main\Mail-application-main\Mail Application\Mail Application\obj\Debug\Mail Application.csproj.GenerateResource.cache
+A:\Programming\Mail-application-main\Mail-application-main\Mail Application\Mail Application\obj\Debug\Mail Application.csproj.CoreCompileInputs.cache
